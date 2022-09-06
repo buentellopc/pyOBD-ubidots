@@ -1,6 +1,9 @@
 pyobd
 =====
 
+This is a projet that was slightly modified by Carlos Buentello in order to work with ubidots platform and a Nissan March car. It was a university assignment and I will host it in GitHub for future reference.
+
+
 <pre>OBD-Pi: Raspberry Pi Displaying Car Diagnostics (OBD-II) Data On An Aftermarket Head Unit
 
 In this tutorial you will learn how to connect your Raspberry Pi to a Bluetooth OBD-II adapter and display realtime engine data to your cars aftermarket head unit.
